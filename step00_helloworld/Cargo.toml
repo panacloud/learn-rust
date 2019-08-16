@@ -1,0 +1,9 @@
+[package]
+name = "step00_helloworld"
+version = "0.1.0"
+authors = ["Zia Khan <ziaukhan@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
